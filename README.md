@@ -54,7 +54,7 @@ The sections of the document are as follows.
  
  ### References:
  mediapipe: 
- https://github.com/nicknochnack/ActionDetectionforSignLanguage
+ https://github.com/google/mediapipe
  
  
  Fill_Mask Model (roberta-base): 
