@@ -1,0 +1,4 @@
+i like summer <mask> winter .
+summer <mask> hot .
+winter <mask> beautiful .
+i like <mask> swim <mask> summer .

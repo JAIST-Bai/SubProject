@@ -1,0 +1,9 @@
+matplotlib==3.5.1
+mediapipe==0.8.10.1
+moviepy==1.0.3
+numpy==1.21.5
+opencv_python==4.6.0.66
+scikit_learn==1.2.0
+tensorflow==2.8.2
+tqdm==4.64.0
+transformers==4.25.1
