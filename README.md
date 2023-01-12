@@ -47,8 +47,10 @@ Used to store test videos. There are 4 continuous sign language videos with the 
 
 used to test the Test_video data, and the result is output as text.
  
-Note: Please run main.py with the command "$ python main.py > ***.txt"
- 
+Note: Please run main.py with the command 
+```
+$ python main.py > ***.txt"
+```
 
 ### Sentences_logs
 
